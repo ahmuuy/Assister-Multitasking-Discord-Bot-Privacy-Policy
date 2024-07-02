@@ -28,7 +28,7 @@ We prioritize the security and privacy of user data and do not share it with any
 
 ***Data Deletion Requests:***
 
-If you wish to request the deletion of your server data, please contact us at areebyaseen59@gmail.com with the subject line "DATA DELETION (Assister Bot)." Note that there is a possibility your data is already deleted as per our retention policy.
+If you wish to request the deletion of your server data, please contact us at techassisofc@gmail.com with the subject line "DATA DELETION (Assister Bot)." Note that there is a possibility your data is already deleted as per our retention policy.
 
 
 ***Contact Us:***
@@ -42,7 +42,7 @@ We are here to address any inquiries or concerns you may have. Please ensure to 
 
 ***Contact Information:***
 
-- Email: areebyaseen59@gmail.com
+- Email: techassisofc@gmail.com
 - Discord Support Server: https://discord.gg/j4uwhmgSyM
 
 **Thank you for using Assister Bot. We value your trust and are committed to protecting your privacy.**
